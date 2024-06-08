@@ -1,1 +1,75 @@
 # Movies-Recommendation-System
+
+
+  <h2>Overview</h2>
+
+  <p>This project is a movie recommendation system built using Python libraries such as Pandas, Scikit-learn, and Pickle. The system takes a user input movie name and suggests similar movies based on a pre-trained model.</p>
+
+  <h2>Requirements</h2>
+
+  <ul>
+    <li>Python 3.x</li>
+    <li>Jupyter Notebook</li>
+    <li>Pandas</li>
+    <li>Scikit-learn</li>
+    <li>Pickle</li>
+  </ul>
+
+  <h2>Installation</h2>
+
+  <ol>
+    <li>Clone the repository or download the notebook file.</li>
+    <li>Install the required dependencies:</li>
+  </ol>
+
+  <pre><code>pip install pandas scikit-learn jupyter
+  </code></pre>
+
+  <ol start="3">
+    <li>Open the notebook using Jupyter Notebook:</li>
+  </ol>
+
+  <pre><code>jupyter notebook main.ipynb
+  </code></pre>
+
+  <ol start="4">
+    <li>Run the notebook cells sequentially to execute the code and interact with the system.</li>
+  </ol>
+
+  <h2>Usage</h2>
+
+  <ol>
+    <li>Open the notebook in Jupyter Notebook.</li>
+    <li>Run the code cells sequentially to initialize the recommendation system.</li>
+    <li>Follow the instructions provided in the notebook to enter the name of a movie.</li>
+    <li>The system will output a list of similar movies based on the input.</li>
+  </ol>
+
+  <h2>How It Works</h2>
+
+  <ol>
+    <li><strong>Data Collection:</strong> The system uses a dataset of movies and their features (such as genres, actors, directors, etc.).</li>
+    <li><strong>Data Preprocessing:</strong> The dataset is preprocessed to prepare it for training.</li>
+    <li><strong>Model Training:</strong> A machine learning model is trained on the preprocessed data to learn the relationships between movies.</li>
+    <li><strong>User Input:</strong> When a user enters a movie name, the system finds similar movies based on the learned relationships.</li>
+    <li><strong>Recommendation:</strong> The system outputs a list of recommended movies to the user.</li>
+  </ol>
+
+  <h2>Dataset</h2>
+
+  <p>The dataset used for this project is included in the repository as <code>dataset.csv</code>. It contains information about various movies including their genres, launguages, release date, summary, ratings, etc.</p>
+
+ 
+<h2>Contributors</h2>
+
+  <ul>
+    <li><a href="https://github.com/JAK0707">Jaiditya Abhineet Kapoor</a></li>
+  </ul>
+
+ <h2>Acknowledgments</h2>
+
+  <ul>
+    <li>Thanks to <a href="https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k">Kaggle</a> for providing the dataset.</li>
+  </ul>
+
+  <p>Feel free to contribute to this project by submitting pull requests or opening issues. Happy movie watching! 🍿🎬</p>
