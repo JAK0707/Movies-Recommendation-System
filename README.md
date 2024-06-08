@@ -4,7 +4,7 @@
   <h2>Overview</h2>
 
   <p>This project is a movie recommendation system built using Python libraries such as Pandas, Scikit-learn, and Pickle. The system takes a user input movie name and suggests similar movies based on a pre-trained model.</p>
-
+<img src = "demo.png">
   <h2>Requirements</h2>
 
   <ul>
