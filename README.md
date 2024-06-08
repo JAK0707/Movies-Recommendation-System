@@ -34,7 +34,7 @@
     <li>Open the Jupyter Notebook:</li>
   </ol>
 
-  <pre><code>jupyter notebook movie_recommendation.ipynb
+  <pre><code>jupyter notebook main.ipynb
   </code></pre>
 
   <ol start="4">
