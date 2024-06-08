@@ -62,7 +62,7 @@
 
   <h2>Dataset</h2>
 
-  <p>The dataset used for this project is included in the repository as <code>movies_dataset.csv</code>. It contains information about various movies including their genres, release date, summary, launguage, ratings, etc.</p>
+  <p>The dataset used for this project is included in the repository as <code>dataset.csv</code>. It contains information about various movies including their genres, release date, summary, launguage, ratings, etc.</p>
 
   <h2>Deployment</h2>
 
